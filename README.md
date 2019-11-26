@@ -18,7 +18,7 @@ Coral Reef loss percentage Counter for MagicMirror.
 
 ```
     {
-          disabled: f,
+          disabled: false,
         module: "MMM-CoralReefLoss",
         position: "middle_center",
         config: {
